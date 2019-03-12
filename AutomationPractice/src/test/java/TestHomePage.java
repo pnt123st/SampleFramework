@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 public class TestHomePage extends CommonAPI {
 
     String homepageUrl = "http://automationpractice.com/index.php";
+    HomePage homePage;
 
     /**
      * Will navigate to the url before running all tests
@@ -13,6 +14,7 @@ public class TestHomePage extends CommonAPI {
     @BeforeClass
     public void initialize() {
         this.driver.navigate().to(this.homepageUrl);
+        this.homePage = PageFactory.initElements(this.driver, HomePage.class);
     }
 
     @Test
@@ -23,7 +25,6 @@ public class TestHomePage extends CommonAPI {
 
     @Test
     public void testUserCanNavigateToTheSignInPage() {
-        HomePage homePage = PageFactory.initElements(this.driver, HomePage.class);
         homePage.clickOnSignInTab();
         String signInPageUrl =
                 "http://automationpractice.com/index.php?controller=authentication&back=my-account";
@@ -32,7 +33,6 @@ public class TestHomePage extends CommonAPI {
 
     @Test
     public void testUserCanSearchForDresses() {
-        HomePage homePage = PageFactory.initElements(this.driver, HomePage.class);
         homePage.searchFor("dresses");
     }
 
