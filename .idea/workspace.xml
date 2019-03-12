@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="795a7253-46ff-4510-b325-bb1ea3817d97" name="Default Changelist" comment="" />
+    <list default="true" id="795a7253-46ff-4510-b325-bb1ea3817d97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Common/target/" />
@@ -16,7 +18,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -26,11 +28,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -44,6 +64,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -52,9 +75,9 @@
         <option value="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/pom.xml" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" />
-        <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java" />
+        <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
       </list>
     </option>
   </component>
@@ -82,6 +105,32 @@
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
@@ -204,13 +253,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1305" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19239905" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19556612" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -262,20 +312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -287,6 +323,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>

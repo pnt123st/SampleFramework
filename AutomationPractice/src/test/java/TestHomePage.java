@@ -18,14 +18,14 @@ public class TestHomePage extends CommonAPI {
     }
 
     @Test
-    public void testUserCanNavigateToHomePage(){
+    public void testUserCanNavigateToHomePage() {
         String homepageTitle = "My Store";
         Assert.assertEquals(this.driver.getTitle(), homepageTitle);
     }
 
     @Test
     public void testUserCanNavigateToTheSignInPage() {
-        homePage.clickOnSignInTab();
+        this.homePage.clickOnSignInTab();
         String signInPageUrl =
                 "http://automationpractice.com/index.php?controller=authentication&back=my-account";
         Assert.assertEquals(this.driver.getCurrentUrl(), signInPageUrl);
@@ -33,8 +33,7 @@ public class TestHomePage extends CommonAPI {
 
     @Test
     public void testUserCanSearchForDresses() {
-        homePage.searchFor("dresses");
+        this.homePage.searchFor("dresses");
     }
-
 
 }
