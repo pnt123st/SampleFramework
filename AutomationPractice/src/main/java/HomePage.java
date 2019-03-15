@@ -4,19 +4,19 @@ import org.openqa.selenium.support.FindBy;
 public class HomePage extends CommonAPI {
 
     @FindBy(className = "login")
-    private WebElement signInTab;
+    WebElement signInTab;
 
     @FindBy(xpath = "//a[@title='Contact Us']")
-    private WebElement contactUsTab;
+    WebElement contactUsTab;
 
     @FindBy(id = "search_query_top")
-    private WebElement searchBox;
+    WebElement searchBox;
 
     @FindBy(name = "submit_search")
-    private WebElement searchButton;
+    WebElement searchButton;
 
     @FindBy(xpath = "//a[@title='Women']")
-    private WebElement womenTab;
+    WebElement womenTab;
 
     public void clickOnSignInTab() {
         this.signInTab.click();

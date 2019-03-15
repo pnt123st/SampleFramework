@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795a7253-46ff-4510-b325-bb1ea3817d97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/target/classes/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/target/classes/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/target/test-classes/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/target/test-classes/TestHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/target/classes/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Common/target/classes/CommonAPI.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,38 +24,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            <state relative-caret-position="270">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java">
+        <entry file="file://$PROJECT_DIR$/Common/src/main/java/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="195">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="49" />
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -72,12 +68,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Common/pom.xml" />
-        <option value="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/pom.xml" />
-        <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java" />
+        <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" />
       </list>
     </option>
   </component>
@@ -90,7 +86,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1305" />
+    <option name="width" value="1184" />
     <option name="height" value="826" />
   </component>
   <component name="ProjectView">
@@ -98,7 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,6 +117,21 @@
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
               <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -137,15 +147,37 @@
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
               <item name="Common" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552270812983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552614271823" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -168,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestHomePage">
+  <component name="RunManager" selected="TestNG.TestHomePage.testUserCanSearchForDresses">
     <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -204,8 +236,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestHomePage.testUserCanSearchForDresses" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
+      <option name="METHOD_NAME" value="testUserCanSearchForDresses" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestHomePage.testUserCanSearchForDresses" />
         <item itemvalue="TestNG.TestHomePage" />
         <item itemvalue="TestNG.TestHomePage.testUserCanNavigateToTheSignInPage" />
         <item itemvalue="TestNG.TestHomePage.testUserCanNavigateToHomePage" />
@@ -226,9 +271,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 05m 18s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestHomePage_testUserCanNavigateToHomePage - 2019.03.10 at 22h 06m 09s.xml">
       <configuration name="TestHomePage.testUserCanNavigateToHomePage" configurationId="TestNG" />
     </history-entry>
@@ -250,9 +292,18 @@
     <history-entry file="TestHomePage - 2019.03.10 at 22h 10m 29s.xml">
       <configuration name="TestHomePage" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestHomePage_testUserCanSearchForDresses - 2019.03.14 at 21h 13m 08s.xml">
+      <configuration name="TestHomePage.testUserCanSearchForDresses" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testUserCanSearchForDresses - 2019.03.14 at 21h 19m 31s.xml">
+      <configuration name="TestHomePage.testUserCanSearchForDresses" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testUserCanSearchForDresses - 2019.03.14 at 21h 20m 19s.xml">
+      <configuration name="TestHomePage.testUserCanSearchForDresses" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1305" height="826" extended-state="0" />
+    <frame x="0" y="23" width="1184" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -260,7 +311,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19556612" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21978985" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -280,7 +331,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.38638163" />
+      <window_info anchor="right" id="Run" order="8" weight="0.38528895" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -298,31 +349,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Common/src/main/java/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AutomationPractice/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -333,10 +363,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/src/main/java/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
         </state>
       </provider>
     </entry>

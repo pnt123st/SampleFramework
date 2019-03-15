@@ -32,8 +32,9 @@ public class TestHomePage extends CommonAPI {
     }
 
     @Test
-    public void testUserCanSearchForDresses() {
+    public void testUserCanSearchForDresses() throws Exception {
         this.homePage.searchFor("dresses");
+        this.homePage.clickOnSignInTab();
     }
 
 }
