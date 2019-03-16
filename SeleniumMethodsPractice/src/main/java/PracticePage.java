@@ -7,19 +7,19 @@ public class PracticePage extends CommonAPI {
 
     String practicePageUrl = "https://learn.letskodeit.com/p/practice";
 
-    @FindBy(xpath = ".//div[@id='radio-btn-example']//label/input")
-    List<WebElement> radioBtnList;
+    @FindBy(xpath = "")
+    List<WebElement> carRadioBtnList;
 
     @FindBy(id = "carselect")
     WebElement selectCar;
 
-    @FindBy(xpath = "//select[@id='multiple-select-example']/option")
+    @FindBy(xpath = "")
     List<WebElement> selectFruitList;
 
     @FindBy(id = "multiple-select-example")
     WebElement multSelectFruit;
 
-    @FindBy(xpath = ".//div[@id='checkbox-example']//label/input")
+    @FindBy(xpath = "")
     List<WebElement> checkboxCarList;
 
     @FindBy(id = "openwindow")
