@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="AutomationPractice" />
         <module name="Common" />
+        <module name="SeleniumMethodsPractice" />
       </profile>
     </annotationProcessing>
   </component>

@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class CommonAPI {
 
-    WebDriver driver = null;
+    public static WebDriver driver = null;
 
     @BeforeClass
     public void setUp() {
@@ -20,7 +20,7 @@ public class CommonAPI {
         this.driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
     }
 
-    @AfterClass
+    @AfterClass(alwaysRun = true)
     public void cleanUp() {
         this.driver.quit();
     }

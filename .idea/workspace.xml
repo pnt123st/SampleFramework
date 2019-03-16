@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795a7253-46ff-4510-b325-bb1ea3817d97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/target/classes/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/target/classes/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/target/test-classes/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/target/test-classes/TestHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Common/target/classes/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Common/target/classes/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Common/target/" />
     <ignored path="$PROJECT_DIR$/AutomationPractice/target/" />
+    <ignored path="$PROJECT_DIR$/SeleniumMethodsPractice/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,31 +22,26 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/SeleniumMethodsPractice/src/main/java/PracticePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="579">
+              <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Common/src/main/java/CommonAPI.java">
+        <entry file="file://$PROJECT_DIR$/SeleniumMethodsPractice/src/test/java/PracticePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="150">
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -73,7 +68,10 @@
         <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/SeleniumMethodsPractice/pom.xml" />
         <option value="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/SeleniumMethodsPractice/src/test/java/PracticePageTest.java" />
+        <option value="$PROJECT_DIR$/SeleniumMethodsPractice/src/main/java/PracticePage.java" />
       </list>
     </option>
   </component>
@@ -85,9 +83,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="299" />
     <option name="y" value="23" />
-    <option name="width" value="1184" />
+    <option name="width" value="1241" />
     <option name="height" value="826" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -104,25 +106,25 @@
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -130,54 +132,28 @@
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="Common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="Common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="Common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="Common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552614271823" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552761990283" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -200,23 +176,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestHomePage.testUserCanSearchForDresses">
-    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
+  <component name="RunManager" selected="TestNG.PracticePageTest.testSwitchIFrame">
+    <configuration name="PracticePageTest.testCancelAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMethodsPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestHomePage.testUserCanNavigateToHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
-      <option name="METHOD_NAME" value="testUserCanNavigateToHomePage" />
+      <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
+      <option name="METHOD_NAME" value="testCancelAlert" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -224,11 +189,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
+    <configuration name="PracticePageTest.testMouseHovering" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMethodsPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
-      <option name="METHOD_NAME" value="testUserCanNavigateToTheSignInPage" />
+      <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
+      <option name="METHOD_NAME" value="testMouseHovering" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -236,11 +201,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.testUserCanSearchForDresses" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
+    <configuration name="PracticePageTest.testOpenTab" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMethodsPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
-      <option name="METHOD_NAME" value="testUserCanSearchForDresses" />
+      <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
+      <option name="METHOD_NAME" value="testOpenTab" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticePageTest.testOpenWindow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMethodsPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
+      <option name="METHOD_NAME" value="testOpenWindow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticePageTest.testSwitchIFrame" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMethodsPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
+      <option name="METHOD_NAME" value="testSwitchIFrame" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -250,10 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestHomePage.testUserCanSearchForDresses" />
-        <item itemvalue="TestNG.TestHomePage" />
-        <item itemvalue="TestNG.TestHomePage.testUserCanNavigateToTheSignInPage" />
-        <item itemvalue="TestNG.TestHomePage.testUserCanNavigateToHomePage" />
+        <item itemvalue="TestNG.PracticePageTest.testSwitchIFrame" />
+        <item itemvalue="TestNG.PracticePageTest.testMouseHovering" />
+        <item itemvalue="TestNG.PracticePageTest.testOpenWindow" />
+        <item itemvalue="TestNG.PracticePageTest.testOpenTab" />
+        <item itemvalue="TestNG.PracticePageTest.testCancelAlert" />
       </list>
     </recent_temporary>
   </component>
@@ -271,39 +261,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHomePage_testUserCanNavigateToHomePage - 2019.03.10 at 22h 06m 09s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToHomePage" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testOpenWindow - 2019.03.16 at 14h 21m 11s.xml">
+      <configuration name="PracticePageTest.testOpenWindow" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 06m 36s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 29m 31s.xml">
+      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 07m 26s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 29m 49s.xml">
+      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 07m 52s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 30m 16s.xml">
+      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 09m 15s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 31m 30s.xml">
+      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 10m 04s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 32m 35s.xml">
+      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage - 2019.03.10 at 22h 10m 29s.xml">
-      <configuration name="TestHomePage" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 33m 14s.xml">
+      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanSearchForDresses - 2019.03.14 at 21h 13m 08s.xml">
-      <configuration name="TestHomePage.testUserCanSearchForDresses" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testSwitchIFrame - 2019.03.16 at 14h 37m 44s.xml">
+      <configuration name="PracticePageTest.testSwitchIFrame" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanSearchForDresses - 2019.03.14 at 21h 19m 31s.xml">
-      <configuration name="TestHomePage.testUserCanSearchForDresses" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testSwitchIFrame - 2019.03.16 at 14h 42m 25s.xml">
+      <configuration name="PracticePageTest.testSwitchIFrame" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanSearchForDresses - 2019.03.14 at 21h 20m 19s.xml">
-      <configuration name="TestHomePage.testUserCanSearchForDresses" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testSwitchIFrame - 2019.03.16 at 14h 43m 53s.xml">
+      <configuration name="PracticePageTest.testSwitchIFrame" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1184" height="826" extended-state="0" />
+    <frame x="299" y="23" width="1241" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -311,7 +301,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21978985" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21267723" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -319,7 +309,7 @@
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32833788" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39918256" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -331,28 +321,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.38528895" />
+      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.29524603" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -370,10 +346,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Common/src/main/java/CommonAPI.java">
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -384,10 +367,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/SeleniumMethodsPractice/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="285">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.4.0/selenium-support-3.4.0.jar!/org/openqa/selenium/support/pagefactory/internal/LocatingElementHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="430" column="17" selection-start-line="430" selection-start-column="17" selection-end-line="430" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/TestMethodWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="864" selection-start-line="864" selection-end-line="864" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/src/main/java/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumMethodsPractice/src/test/java/PracticePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumMethodsPractice/src/main/java/PracticePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
         </state>
       </provider>
     </entry>
