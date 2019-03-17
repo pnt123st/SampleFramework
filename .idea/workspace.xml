@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795a7253-46ff-4510-b325-bb1ea3817d97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/target/classes/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Common/target/classes/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumMethodsPractice/src/main/java/PracticePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumMethodsPractice/src/main/java/PracticePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumMethodsPractice/src/test/java/PracticePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumMethodsPractice/src/test/java/PracticePageTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,12 +26,12 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SeleniumMethodsPractice/src/main/java/PracticePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
-              <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+            <state relative-caret-position="399">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -40,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SeleniumMethodsPractice/src/test/java/PracticePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+            <state relative-caret-position="1178">
+              <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -70,8 +69,8 @@
         <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
         <option value="$PROJECT_DIR$/SeleniumMethodsPractice/pom.xml" />
         <option value="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/SeleniumMethodsPractice/src/test/java/PracticePageTest.java" />
         <option value="$PROJECT_DIR$/SeleniumMethodsPractice/src/main/java/PracticePage.java" />
+        <option value="$PROJECT_DIR$/SeleniumMethodsPractice/src/test/java/PracticePageTest.java" />
       </list>
     </option>
   </component>
@@ -83,9 +82,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="299" />
-    <option name="y" value="23" />
-    <option name="width" value="1241" />
+    <option name="x" value="116" />
+    <option name="y" value="24" />
+    <option name="width" value="1286" />
     <option name="height" value="826" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -96,6 +95,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,25 +107,25 @@
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -133,27 +134,36 @@
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
               <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotests" type="462c0819:PsiDirectoryNode" />
               <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumMethodsPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552762165399" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552784558781" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -176,12 +186,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.PracticePageTest.testSwitchIFrame">
-    <configuration name="PracticePageTest.testCancelAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.PracticePageTest.testMouseHovering">
+    <configuration name="PracticePageTest.testDismissAlert" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumMethodsPractice" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
-      <option name="METHOD_NAME" value="testCancelAlert" />
+      <option name="METHOD_NAME" value="testDismissAlert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticePageTest.testHandleDisplayedElem" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMethodsPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
+      <option name="METHOD_NAME" value="testHandleDisplayedElem" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticePageTest.testHandleIFrames" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMethodsPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
+      <option name="METHOD_NAME" value="testHandleIFrames" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -201,35 +235,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticePageTest.testOpenTab" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticePageTest.testhandleWindows" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumMethodsPractice" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
-      <option name="METHOD_NAME" value="testOpenTab" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticePageTest.testOpenWindow" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumMethodsPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
-      <option name="METHOD_NAME" value="testOpenWindow" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticePageTest.testSwitchIFrame" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumMethodsPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PracticePageTest" />
-      <option name="METHOD_NAME" value="testSwitchIFrame" />
+      <option name="METHOD_NAME" value="testhandleWindows" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -239,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PracticePageTest.testSwitchIFrame" />
         <item itemvalue="TestNG.PracticePageTest.testMouseHovering" />
-        <item itemvalue="TestNG.PracticePageTest.testOpenWindow" />
-        <item itemvalue="TestNG.PracticePageTest.testOpenTab" />
-        <item itemvalue="TestNG.PracticePageTest.testCancelAlert" />
+        <item itemvalue="TestNG.PracticePageTest.testHandleIFrames" />
+        <item itemvalue="TestNG.PracticePageTest.testhandleWindows" />
+        <item itemvalue="TestNG.PracticePageTest.testHandleDisplayedElem" />
+        <item itemvalue="TestNG.PracticePageTest.testDismissAlert" />
       </list>
     </recent_temporary>
   </component>
@@ -261,47 +271,46 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PracticePageTest_testOpenWindow - 2019.03.16 at 14h 21m 11s.xml">
-      <configuration name="PracticePageTest.testOpenWindow" configurationId="TestNG" />
+    <history-entry file="PracticePageTest_testSelectCars - 2019.03.16 at 19h 58m 27s.xml">
+      <configuration name="PracticePageTest.testSelectCars" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 29m 31s.xml">
+    <history-entry file="PracticePageTest_testSelectFruit - 2019.03.16 at 20h 05m 28s.xml">
+      <configuration name="PracticePageTest.testSelectFruit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PracticePageTest_testOkAlert - 2019.03.16 at 20h 11m 44s.xml">
+      <configuration name="PracticePageTest.testOkAlert" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PracticePageTest_testDismissAlert - 2019.03.16 at 20h 13m 22s.xml">
+      <configuration name="PracticePageTest.testDismissAlert" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PracticePageTest_testHandleDisplayedElem - 2019.03.16 at 20h 19m 52s.xml">
+      <configuration name="PracticePageTest.testHandleDisplayedElem" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PracticePageTest_testHandleDisplayedElem - 2019.03.16 at 20h 20m 46s.xml">
+      <configuration name="PracticePageTest.testHandleDisplayedElem" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PracticePageTest_testhandleWindows - 2019.03.16 at 20h 33m 39s.xml">
+      <configuration name="PracticePageTest.testhandleWindows" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PracticePageTest_testhandleWindows - 2019.03.16 at 20h 34m 12s.xml">
+      <configuration name="PracticePageTest.testhandleWindows" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PracticePageTest_testHandleIFrames - 2019.03.16 at 20h 42m 58s.xml">
+      <configuration name="PracticePageTest.testHandleIFrames" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 20h 46m 52s.xml">
       <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 29m 49s.xml">
-      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 30m 16s.xml">
-      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 31m 30s.xml">
-      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 32m 35s.xml">
-      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PracticePageTest_testMouseHovering - 2019.03.16 at 14h 33m 14s.xml">
-      <configuration name="PracticePageTest.testMouseHovering" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PracticePageTest_testSwitchIFrame - 2019.03.16 at 14h 37m 44s.xml">
-      <configuration name="PracticePageTest.testSwitchIFrame" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PracticePageTest_testSwitchIFrame - 2019.03.16 at 14h 42m 25s.xml">
-      <configuration name="PracticePageTest.testSwitchIFrame" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PracticePageTest_testSwitchIFrame - 2019.03.16 at 14h 43m 53s.xml">
-      <configuration name="PracticePageTest.testSwitchIFrame" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="299" y="23" width="1241" height="826" extended-state="0" />
-    <editor active="true" />
+    <frame x="116" y="24" width="1286" height="826" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21267723" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20819935" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -321,7 +330,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.29524603" />
+      <window_info anchor="right" id="Run" order="8" weight="0.29501608" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -411,22 +420,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Common/src/main/java/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="418">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SeleniumMethodsPractice/src/test/java/PracticePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        <state relative-caret-position="1178">
+          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SeleniumMethodsPractice/src/main/java/PracticePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class CommonAPI {
 
-    public static WebDriver driver = null;
+    public static  WebDriver driver = null;
 
     @BeforeClass
     public void setUp() {
